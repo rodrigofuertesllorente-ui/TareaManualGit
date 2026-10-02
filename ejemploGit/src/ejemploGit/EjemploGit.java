@@ -6,7 +6,7 @@ public class EjemploGit {
 		
 		System.out.println("hola lmao xd");
 		
-		System.out.println("hola 2");
+		System.out.println("hola 2 📶");
 		
 	}
 	
