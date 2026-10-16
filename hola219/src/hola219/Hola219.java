@@ -7,7 +7,7 @@ public class Hola219 {
 // primer comentario, like para no desaparecer
 		
 		
-	boolean resident_evil = true;
+	boolean test = true;
 		
 	}
 	
